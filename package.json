@@ -11,6 +11,6 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "json2yaml": "~1.0",
-    "js-yaml": "~3.0"
+    "js-yaml": "~5.3"
   }
 }
