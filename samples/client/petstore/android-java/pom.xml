@@ -160,11 +160,11 @@
   </dependencies>
 
   <properties>
-    <jackson-version>2.1.4</jackson-version>
-    <junit-version>4.8.1</junit-version>
+    <jackson-version>2.18.8</jackson-version>
+    <junit-version>4.13.1</junit-version>
     <maven-plugin-version>1.0.0</maven-plugin-version>
     <junit-version>4.8.1</junit-version>
-    <httpclient-version>4.3</httpclient-version>
+    <httpclient-version>4.5.13</httpclient-version>
   </properties>
 </project>
 

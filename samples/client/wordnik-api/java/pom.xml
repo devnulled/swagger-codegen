@@ -213,10 +213,10 @@
 
   <properties>
     <jersey-version>1.7</jersey-version>
-    <jackson-version>2.1.4</jackson-version>
+    <jackson-version>2.18.8</jackson-version>
     <jodatime-version>2.3</jodatime-version>
     <scala-version>2.9.1-1</scala-version>
-    <junit-version>4.8.1</junit-version>
+    <junit-version>4.13.1</junit-version>
     <maven-plugin-version>1.0.0</maven-plugin-version>
     <junit-version>4.8.1</junit-version>
     <scala-test-version>1.6.1</scala-test-version>

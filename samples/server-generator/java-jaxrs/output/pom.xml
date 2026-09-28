@@ -103,7 +103,7 @@
     <jetty-version>7.6.0.v20120127</jetty-version>
     <slf4j-version>1.6.3</slf4j-version>
     <scala-test-version>1.6.1</scala-test-version>
-    <junit-version>4.8.1</junit-version>
+    <junit-version>4.13.1</junit-version>
     <servlet-api-version>2.5</servlet-api-version>
   </properties>
 </project>
